@@ -1,0 +1,2 @@
+# Google-Data-Analytics-Course-Capstone-Project-Case-Study-1-Cyclistic-
+This is my approach and work to solve the problem of Google Data Analytics Course Capstone Project: Case Study 1 "Cyclistic".  The main objective of this case study is "How to convert casuals to members?" or to be specific,  a successful bike-sharing company desires to increase the number of their annual memberships.  You can find the full details of the case study here.
